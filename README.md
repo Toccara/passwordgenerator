@@ -5,3 +5,7 @@ Created function to grab random element
 Prompt the user for password criteria: length between 8 and 128, pick upper case, lower case, and special characters
 Validated password functionality
 Generated password and displayed to user
+
+Git Hub Repo: https://github.com/Toccara/Scheduler
+
+Deployed Site: https://toccara.github.io/Scheduler/

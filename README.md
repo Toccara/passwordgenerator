@@ -6,6 +6,6 @@ Prompt the user for password criteria: length between 8 and 128, pick upper case
 Validated password functionality
 Generated password and displayed to user
 
-Git Hub Repo: https://github.com/Toccara/Scheduler
+Git Hub Repo: https://github.com/Toccara/passwordgenerator
 
 Deployed Site: https://toccara.github.io/Scheduler/

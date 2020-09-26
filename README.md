@@ -8,4 +8,4 @@ Generated password and displayed to user
 
 Git Hub Repo: https://github.com/Toccara/passwordgenerator
 
-Deployed Site: https://toccara.github.io/Scheduler/
+Deployed Site: https://toccara.github.io/passwordgenerator/
